@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="branco">#FFF</color>
+    <color name="primary">#444444</color>
+    <color name="primaryDark">#333333</color>
+    <color name="accent">#E56394</color>
+    <color name="transparente">#0000</color>
+    <color name="translucent_black">#70000000</color>
+    <color name="colorControlHighlight">#E56394</color>
+    <color name="r1">#888888</color>
+    <color name="r2">#444444</color>
+    <color name="r3">#222222</color>
+
+
+</resources>

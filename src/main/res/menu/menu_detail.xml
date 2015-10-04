@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.concretesolutions.desafioandroid.DetailActivity">
+    <item android:id="@+id/sharedetail" android:icon="@drawable/ic_share_white_48dp"
+        android:title="Share" app:showAsAction="always"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+    />
+</menu>

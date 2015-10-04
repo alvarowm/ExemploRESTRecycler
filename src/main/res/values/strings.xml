@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesafioAndroid</string>
+    <string name="shot_icon">Icone do Shot</string>
+    <string name="shot">Shot</string>
+    <string name="title_activity_main">Desafio Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detalhes do Shot</string>
+</resources>
